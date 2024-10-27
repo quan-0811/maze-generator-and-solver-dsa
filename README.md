@@ -5,13 +5,6 @@
   <i>Maze Demo</i>
 </p>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Algorithms Implemented](#algorithms-implemented)
-
 ## Introduction
 This Python project uses **Pygame** to generate and solve mazes. It demonstrates practical applications of **Data Structures** and **Algorithms** by implementing various Searching techniques.
 
